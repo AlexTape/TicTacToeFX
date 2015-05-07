@@ -1,3 +1,3 @@
-javafx-tictactoe
+TicTacToeFX
 ================
 Simple JavaFX TicTacToe Game.
